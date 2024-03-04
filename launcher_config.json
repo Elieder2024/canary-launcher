@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Elieder2024/canary-launcher/releases/download/2.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Elieder2024/canary-launcher/releases/download/3.0/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
