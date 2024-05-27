@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.32.14528",
-	"launcherVersion": "3.0",
+	"launcherVersion": "3.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Elieder2024/canary-launcher/releases/download/3.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Elieder2024/canary-launcher/releases/download/3.1/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
